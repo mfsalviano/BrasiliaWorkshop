@@ -7,7 +7,7 @@
 plot_residuals(model)
 }
 \arguments{
-\item{model}{an lm object.}
+\item{model}{an lm object. The function will extract residuals ans fitted values}
 }
 \value{
 a ggplot object
